@@ -1,0 +1,14 @@
+# Ignore temporary files
+*.tmp
+*.bak
+~$*
+
+# Ignore Excel autosave
+*.xlsx~
+
+# Ignore Power BI cache folders (if any)
+*.pbix~*
+
+# Ignore large backup folders (optional)
+/backup/
+/temp/
