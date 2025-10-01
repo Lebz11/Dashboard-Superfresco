@@ -2,6 +2,8 @@
 
 * Short Summary: “Super Fresco” analytics project built in Power BI from scratch. Includes data cleaning and transformation in Power Query, star schema modeling (returns fact + dimensions), DAX measures, and a visual design with themed pages (Overview, Products, Stores, Clients, Returns).
 
+<div> <img width="937" height="537" alt="image" src="https://github.com/user-attachments/assets/a0f1edc8-9edc-4da1-a3ed-8bc9c249dd4f" /></div>
+
 ---
 
 ## 📂 Full Documentation
